@@ -3,7 +3,7 @@
     "name": "dynamic_user_interfaces",
     "slug": "dynamic_user_interfaces",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
